@@ -1,0 +1,17 @@
+source,record,field,value,issue,action
+soil_tests,30,ph/organic_carbon_pct,"pH=14.2, OC=0.71",impossible measurement,test excluded
+soil_tests,63,ph/organic_carbon_pct,"pH=7.1, OC=-0.3",impossible measurement,test excluded
+crop_calendar,117,sowing_date,06/20/2021,unparseable date,cycle incomplete
+crop_calendar,175,sowing_date,2022-08-11,outside crop's sowing window (day/month swapped?),date rejected; cycle incomplete
+crop_calendar,68,area,,missing planted area,per-area metrics blank
+crop_calendar,151,area,5.6,area <= 0 or larger than farm,per-area metrics blank
+harvests,12,*,"{'farm_id': 'F01', 'crop': 'Soybean', 'harvest_date': '2022-10-19', 'quantity': 3308.0, 'unit': 'kg'}",exact duplicate row,dropped
+harvests,53,unit,bags,unknown unit,quantity left blank
+inputs,279,cost_inr,-4473,negative cost,row excluded; cycle input cost blank
+harvests,17,quantity,331239,yield outside 500-9000 kg/ha,yield blank; cycle incomplete
+harvests,49,harvest_date,"harvest 2022-11-14, sowing 2022-11-24",harvest before sowing,cycle incomplete
+inputs,-,*,F05-wheat-rabi_2024-25,no input records for cycle,input cost blank
+market_prices,-,*,F05-wheat-rabi_2024-25,no price within 30 days after harvest,gross return blank
+harvests,201,quantity,210805,yield outside 200-5000 kg/ha,yield blank; cycle incomplete
+harvests,117,*,F07 cotton 2021-12-29 00:00:00,matches no crop cycle,dropped
+harvests,175,*,F10 wheat 2023-03-12 00:00:00,matches no crop cycle,dropped

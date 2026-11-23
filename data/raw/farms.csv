@@ -1,0 +1,13 @@
+farm_code,farm_name,district,state,lat,lon,total_area,area_unit,irrigation
+F01,Shinde Farm,pune ,Maharashtra,18.52,73.86,12.0,acre,Canal
+f-02,Patil Agro,NASHIK,Maharashtra,20.0,73.79,6.5,ha,drip
+F3,Gaikwad Fields,Ahilyanagar,Maharashtra,19.09,74.74,9.0,acres,rainfed
+F04,Jadhav Farm,Solapur,Maharashtra,17.66,75.91,4.0,hectare,Rain-fed
+F 05,More Brothers,satara,Maharashtra,17.68,74.02,20.0,acre,Well
+F06,Kale Farm,Chhatrapati Sambhajinagar,Maharashtra,19.88,75.34,8.0,acre,rainfed
+f07,Deshmukh Krishi,jalna,Maharashtra,19.84,75.88,5.5,ha,Rainfed
+F08,Pawar Fields,Latur,Maharashtra,18.4,76.56,10.0,acre,well
+F-09,Kulkarni Farm,Kolhapur,Maharashtra,16.7,74.24,3.5,hectare,Canal
+F10,Mane Agro,SANGLI,Maharashtra,16.85,74.58,15.0,acres,drip
+F11,Chavan Farm,Jalgaon,Maharashtra,21.0,75.56,7.0,ha,rain-fed
+F 12,Wagh Brothers,akola,Maharashtra,20.7,77.0,9.0,acre,Rainfed

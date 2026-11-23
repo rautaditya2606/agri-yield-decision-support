@@ -1,0 +1,217 @@
+farm_id,crop,season,sowing_date,harvest_date_planned,area,area_unit
+F01,soya bean,Kharif,30/06/2019,08-Oct-2019,3.3,acre
+F01,Cotton,Kharif,03-Jul-2019,2020-01-01,1.12,ha
+F01,Wheat,rabi,2019-11-12,23/03/2020,5.2,acre
+F01,SOYBEAN ,Kharif,24/06/2020,12-Oct-2020,1.41,ha
+F01,kapas,Kharif,17-Jun-2020,2020-12-16,2.7,acre
+F01,WHEAT,rabi,2020-11-21,21/03/2021,1.86,ha
+F01,soya bean,Kharif,24/06/2021,12-Oct-2021,3.8,acre
+F01,COTTON,Kharif,05-Jul-2021,2021-12-25,1.19,ha
+F01,wheat,rabi,2021-11-23,27/03/2022,3.7,acre
+F01,Soybean,Kharif,07/07/2022,19-Oct-2022,1.33,ha
+F01,Cotton,Kharif,23-Jun-2022,2022-12-10,2.5,acre
+F01,WHEAT,rabi,2022-11-13,15/03/2023,1.66,ha
+F01,soya bean,Kharif,19/06/2023,30-Sep-2023,3.4,acre
+F01,COTTON,Kharif,01-Jul-2023,2023-12-30,1.43,ha
+F01,WHEAT,rabi,2023-11-14,22/03/2024,4.2,acre
+F01,SOYBEAN ,Kharif,30/06/2024,08-Oct-2024,1.32,ha
+F01,COTTON,Kharif,06-Jul-2024,2024-12-20,3.2,acre
+F01,WHEAT,rabi,2024-11-20,22/03/2025,2.1,ha
+f-02,SOYBEAN ,Kharif,01/07/2019,16-Oct-2019,5.6,acre
+f-02,COTTON,Kharif,04-Jul-2019,2019-12-26,1.88,ha
+f-02,wheat,rabi,2019-11-19,26/03/2020,6.8,acre
+f-02,SOYBEAN ,Kharif,05/07/2020,15-Oct-2020,1.78,ha
+f-02,COTTON,Kharif,27-Jun-2020,2020-12-27,3.2,acre
+f-02,wheat,rabi,2020-11-24,31/03/2021,2.22,ha
+f-02,SOYBEAN ,Kharif,05/07/2021,13-Oct-2021,5.0,acre
+f-02,kapas,Kharif,29-Jun-2021,2021-12-21,1.87,ha
+f-02,Wheat,rabi,2021-11-25,26/03/2022,7.1,acre
+f-02,SOYBEAN ,Kharif,29/06/2022,12-Oct-2022,2.25,ha
+f-02,COTTON,Kharif,27-Jun-2022,2022-12-15,4.3,acre
+f-02,WHEAT,rabi,2022-11-22,04/04/2023,2.02,ha
+f-02,SOYBEAN ,Kharif,22/06/2023,13-Oct-2023,4.8,acre
+f-02,kapas,Kharif,17-Jun-2023,2023-12-07,1.46,ha
+f-02,wheat,rabi,2023-11-13,22/03/2024,6.3,acre
+f-02,Soybean,Kharif,03/07/2024,25-Oct-2024,1.69,ha
+f-02,kapas,Kharif,08-Jul-2024,2025-01-06,4.3,acre
+f-02,WHEAT,rabi,2024-11-10,16/03/2025,2.42,ha
+F3,Soybean,Kharif,27/06/2019,05-Oct-2019,2.4,acre
+F3,Cotton,Kharif,03-Jul-2019,2019-12-24,0.89,ha
+F3,wheat,rabi,2019-11-06,09/03/2020,3.5,acre
+F3,SOYBEAN ,Kharif,30/06/2020,22-Oct-2020,1.02,ha
+F3,Cotton,Kharif,06-Jul-2020,2020-12-20,2.0,acre
+F3,WHEAT,rabi,2020-11-19,21/03/2021,1.6,ha
+F3,SOYBEAN ,Kharif,20/06/2021,29-Sep-2021,2.5,acre
+F3,kapas,Kharif,02-Jul-2021,2021-12-29,0.95,ha
+F3,WHEAT,rabi,2021-11-13,14/03/2022,2.9,acre
+F3,Soybean,Kharif,29/06/2022,20-Oct-2022,1.15,ha
+F3,kapas,Kharif,25-Jun-2022,2022-12-15,2.7,acre
+F3,Wheat,rabi,2022-11-24,08/04/2023,1.51,ha
+F3,soya bean,Kharif,25/06/2023,08-Oct-2023,2.3,acre
+F3,kapas,Kharif,24-Jun-2023,2023-12-22,0.88,ha
+F3,wheat,rabi,2023-11-07,14/03/2024,3.9,acre
+F3,SOYBEAN ,Kharif,22/06/2024,14-Oct-2024,1.04,ha
+F3,kapas,Kharif,16-Jun-2024,2024-12-08,2.4,acre
+F3,WHEAT,rabi,2024-11-15,18/03/2025,1.33,ha
+F04,SOYBEAN ,Kharif,28/06/2019,18-Oct-2019,3.3,acre
+F04,kapas,Kharif,05-Jul-2019,2019-12-26,1.1,ha
+F04,Wheat,rabi,2019-11-15,15/03/2020,3.5,acre
+F04,Soybean,Kharif,07/07/2020,22-Oct-2020,1.23,ha
+F04,COTTON,Kharif,02-Jul-2020,2020-12-19,2.9,acre
+F04,wheat,rabi,2020-11-08,15/03/2021,1.42,ha
+F04,Soybean,Kharif,07/07/2021,30-Oct-2021,3.4,acre
+F04,kapas,Kharif,05-Jul-2021,2021-12-20,1.06,ha
+F04,wheat,rabi,2021-11-11,15/03/2022,4.3,acre
+F04,Soybean,Kharif,28/06/2022,09-Oct-2022,1.03,ha
+F04,kapas,Kharif,18-Jun-2022,2022-12-14,2.7,acre
+F04,wheat,rabi,2022-11-15,22/03/2023,1.58,ha
+F04,soya bean,Kharif,21/06/2023,06-Oct-2023,,acre
+F04,kapas,Kharif,18-Jun-2023,2023-12-15,1.18,ha
+F04,Wheat,rabi,2023-11-22,01/04/2024,3.4,acre
+F04,Soybean,Kharif,22/06/2024,06-Oct-2024,1.31,ha
+F04,COTTON,Kharif,19-Jun-2024,2024-12-18,2.1,acre
+F04,wheat,rabi,2024-11-09,22/03/2025,1.65,ha
+F 05,Soybean,Kharif,04/07/2019,21-Oct-2019,6.9,acre
+F 05,COTTON,Kharif,25-Jun-2019,2019-12-26,1.72,ha
+F 05,WHEAT,rabi,2019-11-08,10/03/2020,8.0,acre
+F 05,Soybean,Kharif,28/06/2020,19-Oct-2020,2.23,ha
+F 05,COTTON,Kharif,10-Jul-2020,2020-12-26,5.2,acre
+F 05,Wheat,rabi,2020-11-14,23/03/2021,3.13,ha
+F 05,SOYBEAN ,Kharif,06/07/2021,21-Oct-2021,6.7,acre
+F 05,Cotton,Kharif,07-Jul-2021,2021-12-28,1.9,ha
+F 05,wheat,rabi,2021-11-17,30/03/2022,6.5,acre
+F 05,soya bean,Kharif,26/06/2022,18-Oct-2022,2.42,ha
+F 05,COTTON,Kharif,01-Jul-2022,2022-12-22,4.8,acre
+F 05,WHEAT,rabi,2022-11-20,02/04/2023,2.89,ha
+F 05,SOYBEAN ,Kharif,20/06/2023,08-Oct-2023,6.2,acre
+F 05,kapas,Kharif,26-Jun-2023,2023-12-10,1.7,ha
+F 05,wheat,rabi,2023-11-07,09/03/2024,6.6,acre
+F 05,soya bean,Kharif,22/06/2024,02-Oct-2024,2.65,ha
+F 05,COTTON,Kharif,25-Jun-2024,2024-12-11,4.9,acre
+F 05,Wheat,rabi,2024-11-16,25/03/2025,3.48,ha
+F06,SOYBEAN ,Kharif,07/07/2019,27-Oct-2019,2.4,acre
+F06,COTTON,Kharif,29-Jun-2019,2019-12-14,0.92,ha
+F06,wheat,rabi,2019-11-10,20/03/2020,2.7,acre
+F06,SOYBEAN ,Kharif,30/06/2020,17-Oct-2020,1.09,ha
+F06,COTTON,Kharif,19-Jun-2020,2020-12-20,1.7,acre
+F06,wheat,rabi,2020-11-25,07/04/2021,0.98,ha
+F06,SOYBEAN ,Kharif,21/06/2021,30-Sep-2021,2.7,acre
+F06,kapas,Kharif,28-Jun-2021,2021-12-21,0.72,ha
+F06,wheat,rabi,2021-11-16,30/03/2022,2.7,acre
+F06,Soybean,Kharif,29/06/2022,10-Oct-2022,0.98,ha
+F06,kapas,Kharif,29-Jun-2022,2022-12-22,1.9,acre
+F06,wheat,rabi,2022-11-25,04/04/2023,1.04,ha
+F06,SOYBEAN ,Kharif,26/06/2023,10-Oct-2023,2.4,acre
+F06,kapas,Kharif,10-Jul-2023,2024-01-10,0.68,ha
+F06,WHEAT,rabi,2023-11-16,22/03/2024,2.6,acre
+F06,soya bean,Kharif,03/07/2024,12-Oct-2024,1.13,ha
+F06,COTTON,Kharif,19-Jun-2024,2024-12-02,1.9,acre
+F06,Wheat,rabi,2024-11-19,20/03/2025,0.99,ha
+f07,SOYBEAN ,Kharif,27/06/2019,16-Oct-2019,3.5,acre
+f07,kapas,Kharif,30-Jun-2019,2019-12-27,1.54,ha
+f07,Wheat,rabi,2019-11-14,22/03/2020,5.5,acre
+f07,SOYBEAN ,Kharif,20/06/2020,10-Oct-2020,1.82,ha
+f07,COTTON,Kharif,09-Jul-2020,2021-01-10,3.2,acre
+f07,Wheat,rabi,2020-11-16,28/03/2021,1.88,ha
+f07,Soybean,Kharif,07/07/2021,24-Oct-2021,4.7,acre
+f07,kapas,Kharif,06/20/2021,2021-12-29,1.4,ha
+f07,wheat,rabi,2021-11-11,15/03/2022,5.1,acre
+f07,Soybean,Kharif,03/07/2022,24-Oct-2022,1.83,ha
+f07,kapas,Kharif,05-Jul-2022,2023-01-04,4.0,acre
+f07,wheat,rabi,2022-11-12,23/03/2023,2.08,ha
+f07,Soybean,Kharif,04/07/2023,17-Oct-2023,4.2,acre
+f07,COTTON,Kharif,09-Jul-2023,2024-01-08,1.22,ha
+f07,Wheat,rabi,2023-11-12,23/03/2024,4.2,acre
+f07,SOYBEAN ,Kharif,29/06/2024,19-Oct-2024,1.58,ha
+f07,Cotton,Kharif,04-Jul-2024,2024-12-29,3.9,acre
+f07,wheat,rabi,2024-11-20,20/03/2025,1.97,ha
+F08,soya bean,Kharif,05/07/2019,13-Oct-2019,2.9,acre
+F08,COTTON,Kharif,24-Jun-2019,2019-12-08,0.99,ha
+F08,WHEAT,rabi,2019-11-22,01/04/2020,3.3,acre
+F08,Soybean,Kharif,07/07/2020,19-Oct-2020,1.26,ha
+F08,COTTON,Kharif,24-Jun-2020,2020-12-21,2.4,acre
+F08,Wheat,rabi,2020-11-23,30/03/2021,1.57,ha
+F08,Soybean,Kharif,21/06/2021,05-Oct-2021,2.8,acre
+F08,COTTON,Kharif,21-Jun-2021,2021-12-20,1.08,ha
+F08,Wheat,rabi,2021-11-25,02/04/2022,3.3,acre
+F08,SOYBEAN ,Kharif,03/07/2022,21-Oct-2022,1.24,ha
+F08,kapas,Kharif,24-Jun-2022,2022-12-07,2.7,acre
+F08,WHEAT,rabi,2022-11-08,15/03/2023,1.62,ha
+F08,soya bean,Kharif,18/06/2023,01-Oct-2023,3.4,acre
+F08,Cotton,Kharif,02-Jul-2023,2023-12-15,0.88,ha
+F08,wheat,rabi,2023-11-14,16/03/2024,3.5,acre
+F08,SOYBEAN ,Kharif,28/06/2024,11-Oct-2024,1.27,ha
+F08,COTTON,Kharif,27-Jun-2024,2024-12-22,2.1,acre
+F08,wheat,rabi,2024-11-15,24/03/2025,1.56,ha
+F-09,soya bean,Kharif,27/06/2019,08-Oct-2019,3.0,acre
+F-09,Cotton,Kharif,02-Jul-2019,2019-12-29,0.98,ha
+F-09,WHEAT,rabi,2019-11-23,25/03/2020,3.3,acre
+F-09,Soybean,Kharif,03/07/2020,13-Oct-2020,1.03,ha
+F-09,COTTON,Kharif,27-Jun-2020,2020-12-17,2.4,acre
+F-09,WHEAT,rabi,2020-11-06,15/03/2021,5.6,ha
+F-09,Soybean,Kharif,05/07/2021,17-Oct-2021,2.5,acre
+F-09,Cotton,Kharif,06-Jul-2021,2022-01-04,0.83,ha
+F-09,wheat,rabi,2021-11-12,18/03/2022,3.4,acre
+F-09,SOYBEAN ,Kharif,22/06/2022,09-Oct-2022,1.2,ha
+F-09,COTTON,Kharif,22-Jun-2022,2022-12-17,1.8,acre
+F-09,wheat,rabi,2022-11-17,27/03/2023,1.26,ha
+F-09,Soybean,Kharif,19/06/2023,10-Oct-2023,2.6,acre
+F-09,Cotton,Kharif,16-Jun-2023,2023-12-06,0.91,ha
+F-09,WHEAT,rabi,2023-11-14,13/03/2024,2.8,acre
+F-09,SOYBEAN ,Kharif,05/07/2024,23-Oct-2024,1.01,ha
+F-09,Cotton,Kharif,21-Jun-2024,2024-12-14,1.8,acre
+F-09,wheat,rabi,2024-11-15,22/03/2025,1.49,ha
+F10,soya bean,Kharif,23/06/2019,12-Oct-2019,4.8,acre
+F10,Cotton,Kharif,16-Jun-2019,2019-11-28,1.73,ha
+F10,wheat,rabi,2019-11-20,03/04/2020,5.7,acre
+F10,SOYBEAN ,Kharif,21/06/2020,02-Oct-2020,1.66,ha
+F10,Cotton,Kharif,07-Jul-2020,2020-12-26,4.3,acre
+F10,wheat,rabi,2020-11-25,25/03/2021,1.9,ha
+F10,SOYBEAN ,Kharif,06/07/2021,29-Oct-2021,5.1,acre
+F10,kapas,Kharif,03-Jul-2021,2021-12-19,1.65,ha
+F10,Wheat,rabi,2021-11-07,18/03/2022,5.5,acre
+F10,soya bean,Kharif,02/07/2022,25-Oct-2022,1.85,ha
+F10,COTTON,Kharif,17-Jun-2022,2022-12-01,3.6,acre
+F10,WHEAT,rabi,2022-08-11,12/03/2023,2.21,ha
+F10,Soybean,Kharif,30/06/2023,08-Oct-2023,4.3,acre
+F10,kapas,Kharif,23-Jun-2023,2023-12-20,1.32,ha
+F10,wheat,rabi,2023-11-19,21/03/2024,4.5,acre
+F10,SOYBEAN ,Kharif,07/07/2024,19-Oct-2024,1.88,ha
+F10,kapas,Kharif,10-Jul-2024,2024-12-29,3.4,acre
+F10,Wheat,rabi,2024-11-11,25/03/2025,2.58,ha
+F11,soya bean,Kharif,20/06/2019,12-Oct-2019,5.2,acre
+F11,Cotton,Kharif,04-Jul-2019,2020-01-05,1.48,ha
+F11,Wheat,rabi,2019-11-15,27/03/2020,5.4,acre
+F11,Soybean,Kharif,06/07/2020,18-Oct-2020,1.77,ha
+F11,COTTON,Kharif,01-Jul-2020,2020-12-28,3.6,acre
+F11,wheat,rabi,2020-11-10,17/03/2021,2.68,ha
+F11,soya bean,Kharif,30/06/2021,08-Oct-2021,5.9,acre
+F11,kapas,Kharif,03-Jul-2021,2021-12-18,1.78,ha
+F11,wheat,rabi,2021-11-24,05/04/2022,6.1,acre
+F11,soya bean,Kharif,28/06/2022,09-Oct-2022,1.83,ha
+F11,Cotton,Kharif,02-Jul-2022,2023-01-03,3.8,acre
+F11,WHEAT,rabi,2022-11-09,15/03/2023,3.11,ha
+F11,SOYBEAN ,Kharif,18/06/2023,03-Oct-2023,4.8,acre
+F11,Cotton,Kharif,09-Jul-2023,2024-01-07,1.66,ha
+F11,Wheat,rabi,2023-11-06,19/03/2024,7.4,acre
+F11,Soybean,Kharif,07/07/2024,28-Oct-2024,1.85,ha
+F11,COTTON,Kharif,24-Jun-2024,2024-12-15,5.1,acre
+F11,Wheat,rabi,2024-11-09,16/03/2025,2.44,ha
+F 12,soya bean,Kharif,20/06/2019,10-Oct-2019,2.5,acre
+F 12,kapas,Kharif,26-Jun-2019,2019-12-10,0.87,ha
+F 12,wheat,rabi,2019-11-15,15/03/2020,3.5,acre
+F 12,soya bean,Kharif,22/06/2020,09-Oct-2020,1.25,ha
+F 12,Cotton,Kharif,24-Jun-2020,2020-12-13,1.9,acre
+F 12,Wheat,rabi,2020-11-15,18/03/2021,1.32,ha
+F 12,Soybean,Kharif,30/06/2021,12-Oct-2021,2.9,acre
+F 12,Cotton,Kharif,28-Jun-2021,2021-12-29,1.04,ha
+F 12,WHEAT,rabi,2021-11-12,20/03/2022,3.0,acre
+F 12,Soybean,Kharif,04/07/2022,18-Oct-2022,1.02,ha
+F 12,COTTON,Kharif,26-Jun-2022,2022-12-18,2.6,acre
+F 12,wheat,rabi,2022-11-05,13/03/2023,1.6,ha
+F 12,SOYBEAN ,Kharif,05/07/2023,17-Oct-2023,2.5,acre
+F 12,Cotton,Kharif,24-Jun-2023,2023-12-19,1.04,ha
+F 12,Wheat,rabi,2023-11-10,12/03/2024,2.9,acre
+F 12,SOYBEAN ,Kharif,21/06/2024,29-Sep-2024,1.07,ha
+F 12,COTTON,Kharif,20-Jun-2024,2024-12-13,2.5,acre
+F 12,Wheat,rabi,2024-11-16,28/03/2025,1.19,ha

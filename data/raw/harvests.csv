@@ -1,0 +1,217 @@
+farm_id,crop,harvest_date,quantity,unit
+F01,soya bean,2019-10-08,3369.0,kg
+F01,COTTON,01/01/2020,2.16,t
+F01,WHEAT,23-Mar-2020,68.7,quintal
+F01,SOYBEAN ,2020-10-12,3063.0,kg
+F01,Cotton,16/12/2020,2.19,t
+F01,Wheat,21-Mar-2021,68.1,quintal
+F01,SOYBEAN ,2021-10-12,3277.0,kg
+F01,kapas,25/12/2021,2.34,t
+F01,Wheat,27-Mar-2022,48.5,quintal
+F01,Soybean,2022-10-19,3308.0,kg
+F01,Soybean,2022-10-19,3308.0,kg
+F01,kapas,10/12/2022,2.28,t
+F01,WHEAT,15-Mar-2023,64.3,quintal
+F01,soya bean,2023-09-30,3224.0,kg
+F01,COTTON,30/12/2023,3.13,t
+F01,wheat,22-Mar-2024,5630.0,quintal
+F01,SOYBEAN ,2024-10-08,2907.0,kg
+F01,kapas,20/12/2024,2.6,t
+F01,Wheat,22-Mar-2025,65.4,quintal
+f-02,soya bean,2019-10-16,4722.0,kg
+f-02,COTTON,26/12/2019,4.24,t
+f-02,WHEAT,26-Mar-2020,99.7,quintal
+f-02,Soybean,2020-10-15,3705.0,kg
+f-02,kapas,27/12/2020,2.95,t
+f-02,Wheat,31-Mar-2021,74.6,quintal
+f-02,Soybean,2021-10-13,4878.0,kg
+f-02,kapas,21/12/2021,3.75,t
+f-02,Wheat,26-Mar-2022,98.3,quintal
+f-02,Soybean,2022-10-12,5156.0,kg
+f-02,Cotton,15/12/2022,3.32,t
+f-02,wheat,04-Apr-2023,72.3,quintal
+f-02,soya bean,2023-10-13,4113.0,kg
+f-02,COTTON,07/12/2023,3.25,t
+f-02,WHEAT,22-Mar-2024,82.9,quintal
+f-02,kapas,06/01/2025,3.52,t
+f-02,WHEAT,16-Mar-2025,73.7,quintal
+F3,Soybean,2019-10-05,2006.0,kg
+F3,Cotton,24/12/2019,1.67,t
+F3,Wheat,09-Mar-2020,29.6,quintal
+F3,soya bean,2020-10-22,2403.0,kg
+F3,Cotton,20/12/2020,1.44,t
+F3,WHEAT,21-Mar-2021,37.8,quintal
+F3,SOYBEAN ,2021-09-29,1981.0,kg
+F3,COTTON,29/12/2021,1.82,t
+F3,WHEAT,14-Mar-2022,28.5,quintal
+F3,soya bean,2022-10-20,2421.0,kg
+F3,COTTON,15/12/2022,2.06,t
+F3,wheat,14-Nov-2022,34.6,quintal
+F3,Soybean,2023-10-08,1596.0,kg
+F3,kapas,22/12/2023,1.46,t
+F3,WHEAT,14-Mar-2024,36.8,quintal
+F3,SOYBEAN ,2024-10-14,2283.0,bags
+F3,kapas,08/12/2024,2.06,t
+F3,wheat,18-Mar-2025,30.5,quintal
+F04,SOYBEAN ,2019-10-18,2590.0,kg
+F04,Cotton,26/12/2019,1.98,t
+F04,Wheat,15-Mar-2020,28.8,quintal
+F04,soya bean,2020-10-22,2527.0,kg
+F04,kapas,19/12/2020,1.99,t
+F04,WHEAT,15-Mar-2021,25.7,quintal
+F04,SOYBEAN ,2021-10-30,2771.0,kg
+F04,kapas,20/12/2021,1.99,t
+F04,WHEAT,15-Mar-2022,37.9,quintal
+F04,SOYBEAN ,2022-10-09,2069.0,kg
+F04,COTTON,14/12/2022,2.08,t
+F04,WHEAT,22-Mar-2023,28.8,quintal
+F04,soya bean,2023-10-06,2079.0,kg
+F04,Cotton,15/12/2023,1.98,t
+F04,wheat,01-Apr-2024,17.4,quintal
+F04,SOYBEAN ,2024-10-06,2557.0,kg
+F04,Cotton,18/12/2024,1.61,t
+F04,wheat,22-Mar-2025,26.4,quintal
+F 05,soya bean,2019-10-21,6097.0,kg
+F 05,COTTON,26/12/2019,3.25,t
+F 05,WHEAT,10-Mar-2020,116.9,quintal
+F 05,SOYBEAN ,2020-10-19,4713.0,kg
+F 05,COTTON,26/12/2020,4.29,t
+F 05,Wheat,23-Mar-2021,103.0,quintal
+F 05,SOYBEAN ,2021-10-21,6317.0,kg
+F 05,Cotton,28/12/2021,4.18,t
+F 05,WHEAT,30-Mar-2022,82.9,quintal
+F 05,soya bean,2022-10-18,5486.0,kg
+F 05,Cotton,22/12/2022,3.58,t
+F 05,Wheat,02-Apr-2023,91.7,quintal
+F 05,SOYBEAN ,2023-10-08,5551.0,kg
+F 05,COTTON,10/12/2023,3.41,t
+F 05,wheat,09-Mar-2024,90.8,quintal
+F 05,soya bean,2024-10-02,5444.0,kg
+F 05,kapas,11/12/2024,4.01,t
+F 05,WHEAT,25-Mar-2025,94.0,quintal
+F06,Soybean,2019-10-27,2120.0,kg
+F06,Cotton,14/12/2019,1.92,t
+F06,wheat,20-Mar-2020,24.2,quintal
+F06,Soybean,2020-10-17,2195.0,kg
+F06,kapas,20/12/2020,1.37,t
+F06,Wheat,07-Apr-2021,18.8,quintal
+F06,Soybean,2021-09-30,2355.0,kg
+F06,COTTON,21/12/2021,1.43,t
+F06,WHEAT,30-Mar-2022,20.9,quintal
+F06,soya bean,2022-10-10,2094.0,kg
+F06,COTTON,22/12/2022,1.6,t
+F06,wheat,04-Apr-2023,24.2,quintal
+F06,SOYBEAN ,2023-10-10,2051.0,kg
+F06,COTTON,10/01/2024,1.06,t
+F06,Wheat,22-Mar-2024,23.9,quintal
+F06,SOYBEAN ,2024-10-12,2454.0,kg
+F06,Cotton,02/12/2024,1.45,t
+F06,Wheat,20-Mar-2025,19.2,quintal
+f07,soya bean,2019-10-16,3189.0,kg
+f07,Cotton,27/12/2019,2.9,t
+f07,WHEAT,22-Mar-2020,47.2,quintal
+f07,Soybean,2020-10-10,3543.0,kg
+f07,Cotton,10/01/2021,2.15,t
+f07,Wheat,28-Mar-2021,34.5,quintal
+f07,Soybean,2021-10-24,3991.0,kg
+f07,kapas,29/12/2021,2.63,t
+f07,WHEAT,15-Mar-2022,41.5,quintal
+f07,Soybean,2022-10-24,4096.0,kg
+f07,COTTON,04/01/2023,2.95,t
+f07,Wheat,23-Mar-2023,49.1,quintal
+f07,SOYBEAN ,2023-10-17,3156.0,kg
+f07,kapas,08/01/2024,1.87,t
+f07,Wheat,23-Mar-2024,32.3,quintal
+f07,Soybean,2024-10-19,3108.0,kg
+f07,kapas,29/12/2024,2.9,t
+f07,Wheat,20-Mar-2025,34.1,quintal
+F08,SOYBEAN ,2019-10-13,2688.0,kg
+F08,kapas,08/12/2019,1.9,t
+F08,wheat,01-Apr-2020,42.0,quintal
+F08,soya bean,2020-10-19,2570.0,kg
+F08,Cotton,21/12/2020,2.0,t
+F08,WHEAT,30-Mar-2021,50.2,quintal
+F08,soya bean,2021-10-05,2176.0,kg
+F08,kapas,20/12/2021,2.04,t
+F08,wheat,02-Apr-2022,38.4,quintal
+F08,soya bean,2022-10-21,2608.0,kg
+F08,kapas,07/12/2022,2.06,t
+F08,Wheat,15-Mar-2023,49.2,quintal
+F08,soya bean,2023-10-01,2881.0,kg
+F08,Cotton,15/12/2023,1.87,t
+F08,WHEAT,16-Mar-2024,47.2,quintal
+F08,Soybean,2024-10-11,2806.0,kg
+F08,Cotton,22/12/2024,1.65,t
+F08,WHEAT,24-Mar-2025,44.8,quintal
+F-09,SOYBEAN ,2019-10-08,2871.0,kg
+F-09,Cotton,29/12/2019,2.21,t
+F-09,Wheat,25-Mar-2020,42.3,quintal
+F-09,soya bean,2020-10-13,2589.0,kg
+F-09,Cotton,17/12/2020,2.18,t
+F-09,WHEAT,15-Mar-2021,50.3,quintal
+F-09,SOYBEAN ,2021-10-17,2399.0,kg
+F-09,Cotton,04/01/2022,1.75,t
+F-09,WHEAT,18-Mar-2022,44.2,quintal
+F-09,soya bean,2022-10-09,2645.0,kg
+F-09,COTTON,17/12/2022,1.48,t
+F-09,wheat,27-Mar-2023,47.1,quintal
+F-09,soya bean,2023-10-10,2724.0,kg
+F-09,Cotton,06/12/2023,1.9,t
+F-09,Wheat,13-Mar-2024,36.6,quintal
+F-09,SOYBEAN ,2024-10-23,2481.0,kg
+F-09,COTTON,14/12/2024,1.48,t
+F-09,WHEAT,22-Mar-2025,46.8,quintal
+F10,Soybean,2019-10-12,4054.0,kg
+F10,Cotton,28/11/2019,3.49,t
+F10,Wheat,03-Apr-2020,64.1,quintal
+F10,SOYBEAN ,2020-10-02,3713.0,kg
+F10,COTTON,26/12/2020,3.39,t
+F10,WHEAT,25-Mar-2021,59.5,quintal
+F10,soya bean,2021-10-29,4418.0,kg
+F10,Cotton,19/12/2021,3.56,t
+F10,wheat,18-Mar-2022,67.4,quintal
+F10,soya bean,2022-10-25,3894.0,kg
+F10,Cotton,01/12/2022,2.82,t
+F10,WHEAT,12-Mar-2023,65.1,quintal
+F10,SOYBEAN ,2023-10-08,3733.0,kg
+F10,kapas,20/12/2023,2.52,t
+F10,wheat,21-Mar-2024,50.1,quintal
+F10,Soybean,2024-10-19,4018.0,kg
+F10,kapas,29/12/2024,2.74,t
+F10,wheat,25-Mar-2025,76.3,quintal
+F11,SOYBEAN ,2019-10-12,4944.0,kg
+F11,COTTON,05/01/2020,3.14,t
+F11,WHEAT,27-Mar-2020,40.3,quintal
+F11,soya bean,2020-10-18,3545.0,kg
+F11,COTTON,28/12/2020,2.67,t
+F11,WHEAT,17-Mar-2021,48.6,quintal
+F11,SOYBEAN ,2021-10-08,5191.0,kg
+F11,kapas,18/12/2021,3.63,t
+F11,WHEAT,05-Apr-2022,39.4,quintal
+F11,SOYBEAN ,2022-10-09,3736.0,kg
+F11,kapas,03/01/2023,3.24,t
+F11,WHEAT,15-Mar-2023,67.0,quintal
+F11,soya bean,2023-10-03,4005.0,kg
+F11,COTTON,07/01/2024,3.21,t
+F11,wheat,19-Mar-2024,55.9,quintal
+F11,Soybean,2024-10-28,3719.0,kg
+F11,COTTON,15/12/2024,4.12,t
+F11,WHEAT,16-Mar-2025,45.1,quintal
+F 12,soya bean,2019-10-10,2219.0,kg
+F 12,Cotton,10/12/2019,1834.0,quintal
+F 12,Wheat,15-Mar-2020,29.9,quintal
+F 12,Soybean,2020-10-09,2450.0,kg
+F 12,Cotton,13/12/2020,1.43,t
+F 12,wheat,18-Mar-2021,29.0,quintal
+F 12,SOYBEAN ,2021-10-12,2556.0,kg
+F 12,Cotton,29/12/2021,2.15,t
+F 12,WHEAT,20-Mar-2022,26.6,quintal
+F 12,Soybean,2022-10-18,2345.0,kg
+F 12,kapas,18/12/2022,1.92,t
+F 12,WHEAT,13-Mar-2023,32.3,quintal
+F 12,Soybean,2023-10-17,1843.0,kg
+F 12,Cotton,19/12/2023,2.03,t
+F 12,Wheat,12-Mar-2024,23.7,quintal
+F 12,Soybean,2024-09-29,2266.0,kg
+F 12,COTTON,13/12/2024,1.87,t
+F 12,WHEAT,28-Mar-2025,23.0,quintal

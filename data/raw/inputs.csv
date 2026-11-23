@@ -1,0 +1,861 @@
+farm,crop,input_type,date,cost_inr
+F01,soybean,seed,30/07/2019,4582
+F01,soybean,fertilizer,26/07/2019,8852
+F01,soybean,pesticide,13/07/2019,2523
+F01,soybean,labour,28/06/2019,2576
+F01,cotton,seed,31-Jul-2019,5450
+F01,cotton,fertilizer,30-Jul-2019,8863
+F01,cotton,pesticide,09-Jul-2019,2878
+F01,cotton,labour,02-Jul-2019,2867
+F01,wheat,seed,2019-12-16,7594
+F01,wheat,fertilizer,2019-12-19,11626
+F01,wheat,pesticide,2019-12-10,4542
+F01,wheat,labour,2019-11-23,4187
+F01,soybean,seed,09/07/2020,4639
+F01,soybean,fertilizer,23/06/2020,10026
+F01,soybean,pesticide,28/07/2020,2525
+F01,soybean,labour,25/06/2020,3404
+F01,cotton,seed,05-Jul-2020,6003
+F01,cotton,fertilizer,10-Jul-2020,9076
+F01,cotton,pesticide,27-Jul-2020,3558
+F01,cotton,labour,23-Jul-2020,3042
+F01,wheat,seed,2020-11-24,7367
+F01,wheat,fertilizer,2020-11-22,10890
+F01,wheat,pesticide,2020-11-25,4190
+F01,wheat,labour,2020-12-24,3639
+F01,soybean,seed,22/06/2021,5302
+F01,soybean,fertilizer,16/07/2021,8405
+F01,soybean,pesticide,21/06/2021,3507
+F01,soybean,labour,27/06/2021,2717
+F01,cotton,seed,07-Jul-2021,5938
+F01,cotton,fertilizer,13-Aug-2021,9158
+F01,cotton,pesticide,03-Aug-2021,3923
+F01,cotton,labour,23-Jul-2021,3012
+F01,wheat,seed,2021-12-01,5839
+F01,wheat,fertilizer,2021-12-30,9900
+F01,wheat,pesticide,2021-12-23,2756
+F01,wheat,labour,2021-12-14,3490
+F01,soybean,seed,03/07/2022,5188
+F01,soybean,fertilizer,23/07/2022,7573
+F01,soybean,pesticide,28/07/2022,3030
+F01,soybean,labour,17/07/2022,3046
+F01,cotton,seed,17-Jul-2022,4582
+F01,cotton,fertilizer,02-Jul-2022,8591
+F01,cotton,pesticide,30-Jul-2022,2750
+F01,cotton,labour,09-Jul-2022,2723
+F01,wheat,seed,2022-12-12,5635
+F01,wheat,fertilizer,2022-11-09,9928
+F01,wheat,pesticide,2022-11-24,3084
+F01,wheat,labour,2022-11-24,3150
+F01,soybean,seed,16/07/2023,4984
+F01,soybean,fertilizer,20/07/2023,7692
+F01,soybean,pesticide,16/06/2023,2629
+F01,soybean,labour,14/06/2023,3080
+F01,cotton,seed,23-Jul-2023,6370
+F01,cotton,fertilizer,07-Aug-2023,10985
+F01,cotton,pesticide,04-Aug-2023,4735
+F01,cotton,labour,03-Jul-2023,3969
+F01,wheat,seed,2023-11-21,6012
+F01,wheat,fertilizer,2023-12-03,10393
+F01,wheat,pesticide,2023-11-20,3738
+F01,wheat,labour,2023-11-28,3672
+F01,soybean,seed,24/07/2024,4834
+F01,soybean,fertilizer,07/08/2024,8171
+F01,soybean,pesticide,25/07/2024,2534
+F01,soybean,labour,05/07/2024,3016
+F01,cotton,seed,16-Jul-2024,5550
+F01,cotton,fertilizer,15-Jul-2024,11968
+F01,cotton,pesticide,10-Jul-2024,4141
+F01,cotton,labour,16-Jul-2024,3252
+F01,wheat,seed,2024-12-09,7831
+F01,wheat,fertilizer,2024-11-30,13208
+F01,wheat,pesticide,2024-12-29,3944
+F01,wheat,labour,2024-11-21,3756
+f-02,soybean,seed,11/07/2019,6812
+f-02,soybean,fertilizer,03/07/2019,15950
+f-02,soybean,pesticide,25/07/2019,4663
+f-02,soybean,labour,31/07/2019,4963
+f-02,cotton,seed,26-Jul-2019,10295
+f-02,cotton,fertilizer,03-Aug-2019,18226
+f-02,cotton,pesticide,09-Jul-2019,5438
+f-02,cotton,labour,29-Jul-2019,5931
+f-02,wheat,seed,2019-11-29,9650
+f-02,wheat,fertilizer,2019-11-18,16271
+f-02,wheat,pesticide,2019-11-29,6190
+f-02,wheat,labour,2019-12-04,5419
+f-02,soybean,seed,04/07/2020,6616
+f-02,soybean,fertilizer,21/07/2020,10928
+f-02,soybean,pesticide,26/07/2020,3786
+f-02,soybean,labour,26/07/2020,3247
+f-02,cotton,seed,14-Jul-2020,6375
+f-02,cotton,fertilizer,16-Jul-2020,10856
+f-02,cotton,pesticide,18-Jul-2020,4260
+f-02,cotton,labour,26-Jul-2020,3896
+f-02,wheat,seed,2020-12-31,7511
+f-02,wheat,fertilizer,2020-12-14,14738
+f-02,wheat,pesticide,2020-12-18,4976
+f-02,wheat,labour,2020-12-28,5249
+f-02,soybean,seed,27/07/2021,6157
+f-02,soybean,fertilizer,29/07/2021,11279
+f-02,soybean,pesticide,16/07/2021,3818
+f-02,soybean,labour,13/07/2021,4068
+f-02,cotton,seed,29-Jun-2021,8482
+f-02,cotton,fertilizer,28-Jul-2021,16346
+f-02,cotton,pesticide,16-Jul-2021,4759
+f-02,cotton,labour,28-Jun-2021,5043
+f-02,wheat,seed,2021-12-05,10447
+f-02,wheat,fertilizer,2022-01-01,16109
+f-02,wheat,pesticide,2021-12-03,5348
+f-02,wheat,labour,2021-12-06,5985
+f-02,soybean,seed,04/07/2022,8531
+f-02,soybean,fertilizer,30/06/2022,16151
+f-02,soybean,pesticide,13/07/2022,4837
+f-02,soybean,labour,18/07/2022,4832
+f-02,cotton,seed,11-Jul-2022,7551
+f-02,cotton,fertilizer,30-Jul-2022,17057
+f-02,cotton,pesticide,28-Jul-2022,5617
+f-02,cotton,labour,14-Jul-2022,5581
+f-02,wheat,seed,2022-12-13,6036
+f-02,wheat,fertilizer,2022-11-23,13957
+f-02,wheat,pesticide,2022-12-10,4157
+f-02,wheat,labour,2022-12-16,4415
+f-02,soybean,seed,21/07/2023,7099
+f-02,soybean,fertilizer,16/07/2023,13365
+f-02,soybean,pesticide,24/07/2023,4036
+f-02,soybean,labour,02/07/2023,3830
+f-02,cotton,seed,06-Jul-2023,7391
+f-02,cotton,fertilizer,13-Jul-2023,12245
+f-02,cotton,pesticide,23-Jun-2023,4744
+f-02,cotton,labour,04-Jul-2023,4276
+f-02,wheat,seed,2023-11-20,7554
+f-02,wheat,fertilizer,2023-12-04,13958
+f-02,wheat,pesticide,2023-11-23,5295
+f-02,wheat,labour,2023-12-19,5617
+f-02,soybean,seed,13/07/2024,5745
+f-02,soybean,fertilizer,04/08/2024,10028
+f-02,soybean,pesticide,02/08/2024,3410
+f-02,soybean,labour,25/07/2024,3582
+f-02,cotton,seed,10-Jul-2024,7981
+f-02,cotton,fertilizer,23-Jul-2024,16554
+f-02,cotton,pesticide,06-Aug-2024,4584
+f-02,cotton,labour,16-Aug-2024,5874
+f-02,wheat,seed,2024-12-08,9681
+f-02,wheat,fertilizer,2024-11-11,15689
+f-02,wheat,pesticide,2024-11-23,5589
+f-02,wheat,labour,2024-11-16,4667
+F3,soybean,seed,05/08/2019,1951
+F3,soybean,fertilizer,01/08/2019,3916
+F3,soybean,pesticide,23/07/2019,1279
+F3,soybean,labour,22/06/2019,1015
+F3,cotton,seed,28-Jul-2019,2307
+F3,cotton,fertilizer,02-Jul-2019,3966
+F3,cotton,pesticide,02-Jul-2019,1451
+F3,cotton,labour,10-Aug-2019,1530
+F3,wheat,seed,2019-11-08,3215
+F3,wheat,fertilizer,2019-11-27,5128
+F3,wheat,pesticide,2019-12-10,1734
+F3,wheat,labour,2019-12-04,1542
+F3,soybean,seed,03/08/2020,1921
+F3,soybean,fertilizer,01/07/2020,3188
+F3,soybean,pesticide,08/07/2020,1388
+F3,soybean,labour,11/07/2020,1270
+F3,cotton,seed,29-Jul-2020,1882
+F3,cotton,fertilizer,31-Jul-2020,4208
+F3,cotton,pesticide,15-Jul-2020,1244
+F3,cotton,labour,19-Jul-2020,1243
+F3,wheat,seed,2020-11-26,3355
+F3,wheat,fertilizer,2020-12-18,5631
+F3,wheat,pesticide,2020-11-23,1761
+F3,wheat,labour,2020-11-23,2155
+F3,soybean,seed,13/07/2021,2298
+F3,soybean,fertilizer,29/07/2021,3258
+F3,soybean,pesticide,10/07/2021,1152
+F3,soybean,labour,17/07/2021,1387
+F3,cotton,seed,13-Jul-2021,2518
+F3,cotton,fertilizer,11-Jul-2021,4107
+F3,cotton,pesticide,02-Aug-2021,1817
+F3,cotton,labour,28-Jun-2021,1638
+F3,wheat,seed,2021-11-25,2339
+F3,wheat,fertilizer,2021-12-15,3875
+F3,wheat,pesticide,2021-12-09,1401
+F3,wheat,labour,2021-12-08,1629
+F3,soybean,seed,25/07/2022,2239
+F3,soybean,fertilizer,19/07/2022,3877
+F3,soybean,pesticide,29/07/2022,1510
+F3,soybean,labour,29/06/2022,1188
+F3,cotton,seed,20-Jun-2022,3319
+F3,cotton,fertilizer,24-Jul-2022,5701
+F3,cotton,pesticide,23-Jun-2022,1794
+F3,cotton,labour,13-Jul-2022,1644
+F3,wheat,seed,2022-12-07,3065
+F3,wheat,fertilizer,2023-01-02,5335
+F3,wheat,pesticide,2022-11-20,1804
+F3,wheat,labour,2022-12-27,2069
+F3,soybean,seed,27/06/2023,1688
+F3,soybean,fertilizer,27/06/2023,3274
+F3,soybean,pesticide,29/06/2023,1153
+F3,soybean,labour,04/08/2023,1103
+F3,cotton,seed,24-Jul-2023,2275
+F3,cotton,fertilizer,01-Jul-2023,3962
+F3,cotton,pesticide,21-Jul-2023,1666
+F3,cotton,labour,27-Jun-2023,1588
+F3,wheat,seed,2023-11-02,2902
+F3,wheat,fertilizer,2023-11-21,5250
+F3,wheat,pesticide,2023-12-09,2062
+F3,wheat,labour,2023-12-03,2152
+F3,soybean,seed,07/07/2024,2003
+F3,soybean,fertilizer,31/07/2024,4159
+F3,soybean,pesticide,11/07/2024,1150
+F3,soybean,labour,13/07/2024,1148
+F3,cotton,seed,22-Jul-2024,3178
+F3,cotton,fertilizer,12-Jul-2024,5709
+F3,cotton,pesticide,19-Jun-2024,1895
+F3,cotton,labour,18-Jul-2024,1664
+F3,wheat,seed,2024-11-19,2273
+F3,wheat,fertilizer,2024-12-21,4659
+F3,wheat,pesticide,2024-11-14,1821
+F3,wheat,labour,2024-11-26,1581
+F04,soybean,seed,13/07/2019,2584
+F04,soybean,fertilizer,24/07/2019,5008
+F04,soybean,pesticide,25/06/2019,1788
+F04,soybean,labour,08/07/2019,1665
+F04,cotton,seed,14-Aug-2019,3321
+F04,cotton,fertilizer,28-Jul-2019,6164
+F04,cotton,pesticide,19-Jul-2019,1663
+F04,cotton,labour,02-Jul-2019,2072
+F04,wheat,seed,2019-12-16,2867
+F04,wheat,fertilizer,2019-11-21,5391
+F04,wheat,pesticide,2019-11-15,1535
+F04,wheat,labour,2019-12-04,1760
+F04,soybean,seed,31/07/2020,2562
+F04,soybean,fertilizer,02/07/2020,4103
+F04,soybean,pesticide,31/07/2020,1653
+F04,soybean,labour,14/08/2020,1654
+F04,cotton,seed,24-Jul-2020,3442
+F04,cotton,fertilizer,26-Jul-2020,6287
+F04,cotton,pesticide,09-Jul-2020,2188
+F04,cotton,labour,27-Jul-2020,2279
+F04,wheat,seed,2020-12-15,2666
+F04,wheat,fertilizer,2020-11-03,4952
+F04,wheat,pesticide,2020-12-16,1738
+F04,wheat,labour,2020-11-06,1846
+F04,soybean,seed,16/07/2021,2966
+F04,soybean,fertilizer,10/08/2021,5097
+F04,soybean,pesticide,13/08/2021,1510
+F04,soybean,labour,10/07/2021,1721
+F04,cotton,seed,23-Jul-2021,2553
+F04,cotton,fertilizer,05-Jul-2021,5715
+F04,cotton,pesticide,20-Jul-2021,2000
+F04,cotton,labour,11-Jul-2021,1913
+F04,wheat,seed,2021-11-23,3462
+F04,wheat,fertilizer,2021-11-22,6845
+F04,wheat,pesticide,2021-12-06,2334
+F04,wheat,labour,2021-11-24,2367
+F04,soybean,seed,18/07/2022,2199
+F04,soybean,fertilizer,28/07/2022,4228
+F04,soybean,pesticide,18/07/2022,1186
+F04,soybean,labour,27/07/2022,1056
+F04,cotton,seed,23-Jul-2022,2970
+F04,cotton,fertilizer,19-Jun-2022,6276
+F04,cotton,pesticide,13-Jul-2022,1945
+F04,cotton,labour,18-Jul-2022,1585
+F04,wheat,seed,2022-12-06,2972
+F04,wheat,fertilizer,2022-11-12,5034
+F04,wheat,pesticide,2022-11-29,2150
+F04,wheat,labour,2022-11-17,2178
+F04,soybean,seed,30/07/2023,2207
+F04,soybean,fertilizer,12/07/2023,4286
+F04,soybean,pesticide,25/06/2023,1293
+F04,soybean,labour,27/07/2023,1406
+F04,cotton,seed,26-Jun-2023,3493
+F04,cotton,fertilizer,28-Jun-2023,5846
+F04,cotton,pesticide,19-Jun-2023,2194
+F04,cotton,labour,06-Jul-2023,2268
+F04,wheat,seed,2023-11-30,2404
+F04,wheat,fertilizer,2023-12-25,5142
+F04,wheat,pesticide,2023-11-20,1876
+F04,wheat,labour,2023-12-02,1785
+F04,soybean,seed,01/07/2024,2397
+F04,soybean,fertilizer,26/06/2024,-4473
+F04,soybean,pesticide,25/07/2024,1708
+F04,soybean,labour,26/06/2024,1338
+F04,cotton,seed,06-Jul-2024,2167
+F04,cotton,fertilizer,29-Jun-2024,4766
+F04,cotton,pesticide,15-Jun-2024,1501
+F04,cotton,labour,17-Jun-2024,1319
+F04,wheat,seed,2024-12-06,3575
+F04,wheat,fertilizer,2024-12-02,6107
+F04,wheat,pesticide,2024-12-13,1982
+F04,wheat,labour,2024-12-16,1709
+F 05,soybean,seed,26/07/2019,10821
+F 05,soybean,fertilizer,30/07/2019,18625
+F 05,soybean,pesticide,27/07/2019,6255
+F 05,soybean,labour,04/07/2019,5128
+F 05,cotton,seed,04-Aug-2019,8644
+F 05,cotton,fertilizer,28-Jul-2019,14375
+F 05,cotton,pesticide,19-Jul-2019,5103
+F 05,cotton,labour,17-Jul-2019,5065
+F 05,wheat,seed,2019-11-30,12506
+F 05,wheat,fertilizer,2019-11-17,19991
+F 05,wheat,pesticide,2019-12-02,6587
+F 05,wheat,labour,2019-11-09,6557
+F 05,soybean,seed,27/06/2020,8795
+F 05,soybean,fertilizer,28/06/2020,12326
+F 05,soybean,pesticide,29/06/2020,4112
+F 05,soybean,labour,16/07/2020,5027
+F 05,cotton,seed,12-Jul-2020,9718
+F 05,cotton,fertilizer,16-Aug-2020,17941
+F 05,cotton,pesticide,01-Aug-2020,6958
+F 05,cotton,labour,08-Jul-2020,6823
+F 05,wheat,seed,2020-11-23,11470
+F 05,wheat,fertilizer,2020-12-01,21773
+F 05,wheat,pesticide,2020-12-02,7254
+F 05,wheat,labour,2020-11-26,5814
+F 05,soybean,seed,05/08/2021,9983
+F 05,soybean,fertilizer,12/08/2021,14647
+F 05,soybean,pesticide,18/07/2021,6253
+F 05,soybean,labour,18/07/2021,4887
+F 05,cotton,seed,27-Jul-2021,9495
+F 05,cotton,fertilizer,11-Aug-2021,14594
+F 05,cotton,pesticide,07-Jul-2021,6377
+F 05,cotton,labour,15-Jul-2021,5998
+F 05,wheat,seed,2021-12-18,8687
+F 05,wheat,fertilizer,2021-11-15,16982
+F 05,wheat,pesticide,2021-12-21,4934
+F 05,wheat,labour,2021-11-17,4759
+F 05,soybean,seed,23/07/2022,7894
+F 05,soybean,fertilizer,18/07/2022,13480
+F 05,soybean,pesticide,03/08/2022,4489
+F 05,soybean,labour,22/07/2022,5354
+F 05,cotton,seed,15-Jul-2022,8102
+F 05,cotton,fertilizer,04-Jul-2022,19397
+F 05,cotton,pesticide,14-Jul-2022,6156
+F 05,cotton,labour,26-Jun-2022,5410
+F 05,wheat,seed,2022-12-27,10116
+F 05,wheat,fertilizer,2022-11-19,19879
+F 05,wheat,pesticide,2022-11-17,5882
+F 05,wheat,labour,2022-12-14,5953
+F 05,soybean,seed,22/06/2023,8500
+F 05,soybean,fertilizer,05/07/2023,15240
+F 05,soybean,pesticide,24/07/2023,4714
+F 05,soybean,labour,29/07/2023,5166
+F 05,cotton,seed,26-Jun-2023,8081
+F 05,cotton,fertilizer,10-Jul-2023,14525
+F 05,cotton,pesticide,05-Jul-2023,5367
+F 05,cotton,labour,01-Jul-2023,4748
+F 05,wheat,seed,2023-12-13,9945
+F 05,wheat,fertilizer,2023-11-17,18342
+F 05,wheat,pesticide,2023-11-18,4920
+F 05,wheat,labour,2023-12-10,5079
+F 05,soybean,seed,24/07/2024,9983
+F 05,soybean,fertilizer,23/07/2024,16439
+F 05,soybean,pesticide,26/07/2024,5804
+F 05,soybean,labour,27/07/2024,5270
+F 05,cotton,seed,27-Jul-2024,10671
+F 05,cotton,fertilizer,22-Jul-2024,15291
+F 05,cotton,pesticide,19-Jul-2024,5129
+F 05,cotton,labour,23-Jun-2024,5795
+F06,soybean,seed,07/08/2019,1950
+F06,soybean,fertilizer,22/07/2019,3726
+F06,soybean,pesticide,03/08/2019,1225
+F06,soybean,labour,05/07/2019,1064
+F06,cotton,seed,05-Jul-2019,2580
+F06,cotton,fertilizer,08-Aug-2019,3996
+F06,cotton,pesticide,22-Jul-2019,1517
+F06,cotton,labour,02-Aug-2019,1557
+F06,wheat,seed,2019-11-08,2339
+F06,wheat,fertilizer,2019-12-16,4343
+F06,wheat,pesticide,2019-11-26,1266
+F06,wheat,labour,2019-12-18,1170
+F06,soybean,seed,01/08/2020,2071
+F06,soybean,fertilizer,17/07/2020,4117
+F06,soybean,pesticide,05/08/2020,1234
+F06,soybean,labour,20/07/2020,1386
+F06,cotton,seed,05-Jul-2020,1957
+F06,cotton,fertilizer,26-Jul-2020,3694
+F06,cotton,pesticide,27-Jul-2020,1194
+F06,cotton,labour,19-Jun-2020,1265
+F06,wheat,seed,2020-12-11,2225
+F06,wheat,fertilizer,2020-12-21,4002
+F06,wheat,pesticide,2020-11-28,1067
+F06,wheat,labour,2020-12-08,1054
+F06,soybean,seed,25/06/2021,2244
+F06,soybean,fertilizer,30/07/2021,3526
+F06,soybean,pesticide,26/06/2021,1414
+F06,soybean,labour,18/06/2021,1395
+F06,cotton,seed,21-Jul-2021,1886
+F06,cotton,fertilizer,08-Jul-2021,3339
+F06,cotton,pesticide,23-Jul-2021,1140
+F06,cotton,labour,05-Jul-2021,1356
+F06,wheat,seed,2021-11-21,2238
+F06,wheat,fertilizer,2021-12-19,4376
+F06,wheat,pesticide,2021-11-27,1188
+F06,wheat,labour,2021-12-11,1153
+F06,soybean,seed,04/07/2022,1715
+F06,soybean,fertilizer,26/07/2022,3288
+F06,soybean,pesticide,21/07/2022,1052
+F06,soybean,labour,08/07/2022,1032
+F06,cotton,seed,18-Jul-2022,2101
+F06,cotton,fertilizer,17-Jul-2022,4514
+F06,cotton,pesticide,14-Jul-2022,1202
+F06,cotton,labour,08-Aug-2022,1480
+F06,wheat,seed,2022-11-28,2202
+F06,wheat,fertilizer,2022-12-20,4035
+F06,wheat,pesticide,2022-11-20,1229
+F06,wheat,labour,2022-11-21,1400
+F06,soybean,seed,28/06/2023,1996
+F06,soybean,fertilizer,06/07/2023,3859
+F06,soybean,pesticide,24/06/2023,1117
+F06,soybean,labour,31/07/2023,1095
+F06,cotton,seed,14-Aug-2023,1925
+F06,cotton,fertilizer,20-Jul-2023,3443
+F06,cotton,pesticide,23-Jul-2023,1217
+F06,cotton,labour,13-Aug-2023,1118
+F06,wheat,seed,2023-12-04,2135
+F06,wheat,fertilizer,2023-12-14,3321
+F06,wheat,pesticide,2023-12-13,1289
+F06,wheat,labour,2023-12-05,1293
+F06,soybean,seed,02/07/2024,1932
+F06,soybean,fertilizer,09/08/2024,3879
+F06,soybean,pesticide,04/08/2024,1408
+F06,soybean,labour,19/07/2024,1452
+F06,cotton,seed,27-Jul-2024,2339
+F06,cotton,fertilizer,28-Jul-2024,3790
+F06,cotton,pesticide,25-Jun-2024,1269
+F06,cotton,labour,18-Jun-2024,1396
+F06,wheat,seed,2024-12-03,1870
+F06,wheat,fertilizer,2024-12-18,3580
+F06,wheat,pesticide,2024-11-16,1179
+F06,wheat,labour,2024-11-26,1278
+f07,soybean,seed,15/07/2019,2610
+f07,soybean,fertilizer,17/07/2019,4945
+f07,soybean,pesticide,16/07/2019,1803
+f07,soybean,labour,03/07/2019,1599
+f07,cotton,seed,30-Jun-2019,4606
+f07,cotton,fertilizer,06-Jul-2019,7600
+f07,cotton,pesticide,15-Jul-2019,2622
+f07,cotton,labour,15-Jul-2019,2279
+f07,wheat,seed,2019-12-07,4405
+f07,wheat,fertilizer,2019-12-01,6957
+f07,wheat,pesticide,2019-12-06,2781
+f07,wheat,labour,2019-11-12,2506
+f07,soybean,seed,24/06/2020,4134
+f07,soybean,fertilizer,28/07/2020,7237
+f07,soybean,pesticide,17/06/2020,2368
+f07,soybean,labour,30/06/2020,1939
+f07,cotton,seed,16-Aug-2020,3784
+f07,cotton,fertilizer,27-Jul-2020,6503
+f07,cotton,pesticide,08-Jul-2020,2116
+f07,cotton,labour,06-Aug-2020,2250
+f07,wheat,seed,2020-12-12,4026
+f07,wheat,fertilizer,2020-12-16,6804
+f07,wheat,pesticide,2020-11-27,1997
+f07,wheat,labour,2020-11-24,2394
+f07,soybean,seed,06/07/2021,3420
+f07,soybean,fertilizer,16/08/2021,6813
+f07,soybean,pesticide,07/07/2021,2266
+f07,soybean,labour,22/07/2021,2519
+f07,cotton,seed,30-Jul-2021,4333
+f07,cotton,fertilizer,29-Jul-2021,7500
+f07,cotton,pesticide,08-Jul-2021,2449
+f07,cotton,labour,22-Jun-2021,2358
+f07,wheat,seed,2021-12-05,4209
+f07,wheat,fertilizer,2021-12-11,8092
+f07,wheat,pesticide,2021-11-11,2197
+f07,wheat,labour,2021-12-01,2150
+f07,soybean,seed,08/08/2022,4179
+f07,soybean,fertilizer,27/07/2022,5746
+f07,soybean,pesticide,20/07/2022,2315
+f07,soybean,labour,02/08/2022,1951
+f07,cotton,seed,03-Jul-2022,5126
+f07,cotton,fertilizer,02-Aug-2022,9032
+f07,cotton,pesticide,10-Jul-2022,2453
+f07,cotton,labour,14-Aug-2022,2461
+f07,wheat,seed,2022-12-17,3849
+f07,wheat,fertilizer,2022-11-24,8513
+f07,wheat,pesticide,2022-11-26,2215
+f07,wheat,labour,2022-11-12,2582
+f07,soybean,seed,06/08/2023,3506
+f07,soybean,fertilizer,04/08/2023,5788
+f07,soybean,pesticide,30/06/2023,1749
+f07,soybean,labour,09/08/2023,1773
+f07,cotton,seed,05-Jul-2023,3537
+f07,cotton,fertilizer,13-Aug-2023,6145
+f07,cotton,pesticide,14-Aug-2023,2078
+f07,cotton,labour,03-Aug-2023,2330
+f07,wheat,seed,2023-12-07,3358
+f07,wheat,fertilizer,2023-11-28,6090
+f07,wheat,pesticide,2023-11-27,2118
+f07,wheat,labour,2023-11-27,2275
+f07,soybean,seed,23/07/2024,2989
+f07,soybean,fertilizer,22/07/2024,5044
+f07,soybean,pesticide,30/06/2024,1753
+f07,soybean,labour,18/07/2024,1640
+f07,cotton,seed,19-Jul-2024,5000
+f07,cotton,fertilizer,09-Jul-2024,7222
+f07,cotton,pesticide,31-Jul-2024,2653
+f07,cotton,labour,18-Jul-2024,2628
+f07,wheat,seed,2024-12-07,3603
+f07,wheat,fertilizer,2024-12-03,6132
+f07,wheat,pesticide,2024-12-26,2360
+f07,wheat,labour,2024-12-03,2486
+F08,soybean,seed,25/07/2019,3997
+F08,soybean,fertilizer,25/07/2019,7195
+F08,soybean,pesticide,04/08/2019,2163
+F08,soybean,labour,04/08/2019,2270
+F08,cotton,seed,28-Jul-2019,5324
+F08,cotton,fertilizer,26-Jun-2019,9204
+F08,cotton,pesticide,25-Jun-2019,2586
+F08,cotton,labour,10-Jul-2019,2818
+F08,wheat,seed,2019-11-19,4655
+F08,wheat,fertilizer,2020-01-01,7220
+F08,wheat,pesticide,2019-12-17,2653
+F08,wheat,labour,2019-11-26,2809
+F08,soybean,seed,21/07/2020,5059
+F08,soybean,fertilizer,03/08/2020,8161
+F08,soybean,pesticide,05/08/2020,2907
+F08,soybean,labour,07/08/2020,2638
+F08,cotton,seed,26-Jul-2020,5381
+F08,cotton,fertilizer,02-Aug-2020,7979
+F08,cotton,pesticide,27-Jul-2020,2932
+F08,cotton,labour,30-Jul-2020,2801
+F08,wheat,seed,2020-12-27,5708
+F08,wheat,fertilizer,2020-12-12,10706
+F08,wheat,pesticide,2020-12-31,2949
+F08,wheat,labour,2020-12-24,3042
+F08,soybean,seed,12/07/2021,4218
+F08,soybean,fertilizer,25/07/2021,7186
+F08,soybean,pesticide,19/06/2021,2696
+F08,soybean,labour,19/07/2021,2542
+F08,cotton,seed,27-Jun-2021,4996
+F08,cotton,fertilizer,20-Jul-2021,9410
+F08,cotton,pesticide,08-Jul-2021,3025
+F08,cotton,labour,29-Jul-2021,3343
+F08,wheat,seed,2021-12-04,4736
+F08,wheat,fertilizer,2021-12-09,9489
+F08,wheat,pesticide,2022-01-04,3020
+F08,wheat,labour,2022-01-04,2548
+F08,soybean,seed,03/08/2022,4064
+F08,soybean,fertilizer,22/07/2022,8226
+F08,soybean,pesticide,23/07/2022,2913
+F08,soybean,labour,07/07/2022,2853
+F08,cotton,seed,19-Jul-2022,5642
+F08,cotton,fertilizer,23-Jul-2022,8870
+F08,cotton,pesticide,24-Jul-2022,3012
+F08,cotton,labour,27-Jun-2022,3424
+F08,wheat,seed,2022-11-06,5905
+F08,wheat,fertilizer,2022-11-24,8982
+F08,wheat,pesticide,2022-11-09,3624
+F08,wheat,labour,2022-11-11,3587
+F08,soybean,seed,01/07/2023,5085
+F08,soybean,fertilizer,24/07/2023,8287
+F08,soybean,pesticide,18/06/2023,2533
+F08,soybean,labour,27/06/2023,3052
+F08,cotton,seed,22-Jul-2023,4955
+F08,cotton,fertilizer,08-Jul-2023,8432
+F08,cotton,pesticide,15-Jul-2023,2926
+F08,cotton,labour,27-Jun-2023,2880
+F08,wheat,seed,2023-12-10,5035
+F08,wheat,fertilizer,2023-11-17,9991
+F08,wheat,pesticide,2023-12-08,3296
+F08,wheat,labour,2023-11-16,2779
+F08,soybean,seed,14/07/2024,3797
+F08,soybean,fertilizer,29/07/2024,8699
+F08,soybean,pesticide,05/07/2024,2807
+F08,soybean,labour,02/08/2024,2407
+F08,cotton,seed,30-Jun-2024,3727
+F08,cotton,fertilizer,07-Jul-2024,7359
+F08,cotton,pesticide,16-Jul-2024,2104
+F08,cotton,labour,09-Jul-2024,2274
+F08,wheat,seed,2024-11-25,5230
+F08,wheat,fertilizer,2024-11-17,8537
+F08,wheat,pesticide,2024-11-20,3242
+F08,wheat,labour,2024-12-12,3183
+F-09,soybean,seed,30/06/2019,3848
+F-09,soybean,fertilizer,21/07/2019,7511
+F-09,soybean,pesticide,30/07/2019,2707
+F-09,soybean,labour,05/08/2019,2424
+F-09,cotton,seed,04-Aug-2019,5062
+F-09,cotton,fertilizer,02-Jul-2019,9611
+F-09,cotton,pesticide,30-Jul-2019,2903
+F-09,cotton,labour,01-Jul-2019,3057
+F-09,wheat,seed,2019-11-27,4792
+F-09,wheat,fertilizer,2019-12-21,7592
+F-09,wheat,pesticide,2019-12-31,2765
+F-09,wheat,labour,2019-12-25,2565
+F-09,soybean,seed,24/07/2020,3207
+F-09,soybean,fertilizer,01/07/2020,6405
+F-09,soybean,pesticide,10/08/2020,2201
+F-09,soybean,labour,29/06/2020,2362
+F-09,cotton,seed,14-Jul-2020,4062
+F-09,cotton,fertilizer,26-Jul-2020,8976
+F-09,cotton,pesticide,26-Jun-2020,3241
+F-09,cotton,labour,22-Jul-2020,3234
+F-09,wheat,seed,2020-11-27,5297
+F-09,wheat,fertilizer,2020-11-25,8791
+F-09,wheat,pesticide,2020-11-25,2998
+F-09,wheat,labour,2020-12-14,2931
+F-09,soybean,seed,08/07/2021,3388
+F-09,soybean,fertilizer,14/07/2021,6731
+F-09,soybean,pesticide,01/07/2021,2311
+F-09,soybean,labour,29/07/2021,2401
+F-09,cotton,seed,10-Jul-2021,4019
+F-09,cotton,fertilizer,08-Jul-2021,6828
+F-09,cotton,pesticide,12-Aug-2021,2098
+F-09,cotton,labour,02-Jul-2021,2381
+F-09,wheat,seed,2021-11-10,5006
+F-09,wheat,fertilizer,2021-11-09,7912
+F-09,wheat,pesticide,2021-11-21,2772
+F-09,wheat,labour,2021-11-10,2890
+F-09,soybean,seed,30/07/2022,4298
+F-09,soybean,fertilizer,02/07/2022,8282
+F-09,soybean,pesticide,26/06/2022,2370
+F-09,soybean,labour,20/07/2022,2887
+F-09,cotton,seed,27-Jul-2022,3964
+F-09,cotton,fertilizer,22-Jul-2022,6691
+F-09,cotton,pesticide,09-Jul-2022,2114
+F-09,cotton,labour,29-Jul-2022,2397
+F-09,wheat,seed,2022-12-16,3992
+F-09,wheat,fertilizer,2022-11-26,7875
+F-09,wheat,pesticide,2022-12-27,2488
+F-09,wheat,labour,2022-12-11,2364
+F-09,soybean,seed,27/06/2023,3456
+F-09,soybean,fertilizer,19/06/2023,6398
+F-09,soybean,pesticide,07/07/2023,2532
+F-09,soybean,labour,26/06/2023,1972
+F-09,cotton,seed,18-Jul-2023,4042
+F-09,cotton,fertilizer,16-Jul-2023,8566
+F-09,cotton,pesticide,24-Jun-2023,2448
+F-09,cotton,labour,02-Jul-2023,2972
+F-09,wheat,seed,2023-12-09,4323
+F-09,wheat,fertilizer,2023-12-23,8146
+F-09,wheat,pesticide,2023-11-22,2491
+F-09,wheat,labour,2023-11-24,2340
+F-09,soybean,seed,16/07/2024,3386
+F-09,soybean,fertilizer,31/07/2024,6095
+F-09,soybean,pesticide,30/07/2024,2099
+F-09,soybean,labour,20/07/2024,2287
+F-09,cotton,seed,02-Jul-2024,3153
+F-09,cotton,fertilizer,23-Jul-2024,6452
+F-09,cotton,pesticide,12-Jul-2024,2167
+F-09,cotton,labour,28-Jun-2024,1987
+F-09,wheat,seed,2024-12-23,5457
+F-09,wheat,fertilizer,2024-12-11,8930
+F-09,wheat,pesticide,2024-12-21,3567
+F-09,wheat,labour,2024-12-09,3354
+F10,soybean,seed,22/07/2019,7679
+F10,soybean,fertilizer,21/06/2019,14092
+F10,soybean,pesticide,22/06/2019,4124
+F10,soybean,labour,30/07/2019,4642
+F10,cotton,seed,11-Jun-2019,9004
+F10,cotton,fertilizer,10-Jul-2019,13971
+F10,cotton,pesticide,20-Jul-2019,4893
+F10,cotton,labour,20-Jul-2019,5296
+F10,wheat,seed,2019-12-02,6913
+F10,wheat,fertilizer,2019-12-03,14709
+F10,wheat,pesticide,2019-12-29,4148
+F10,wheat,labour,2019-11-26,5104
+F10,soybean,seed,08/07/2020,5378
+F10,soybean,fertilizer,11/07/2020,9728
+F10,soybean,pesticide,11/07/2020,3046
+F10,soybean,labour,01/07/2020,3443
+F10,cotton,seed,12-Aug-2020,9671
+F10,cotton,fertilizer,07-Jul-2020,16352
+F10,cotton,pesticide,26-Jul-2020,4913
+F10,cotton,labour,05-Jul-2020,5137
+F10,wheat,seed,2020-12-26,7217
+F10,wheat,fertilizer,2020-11-26,13684
+F10,wheat,pesticide,2020-11-22,4463
+F10,wheat,labour,2021-01-03,3667
+F10,soybean,seed,06/08/2021,8152
+F10,soybean,fertilizer,12/07/2021,13726
+F10,soybean,pesticide,21/07/2021,4930
+F10,soybean,labour,14/07/2021,3733
+F10,cotton,seed,03-Aug-2021,7598
+F10,cotton,fertilizer,22-Jul-2021,13420
+F10,cotton,pesticide,01-Aug-2021,5109
+F10,cotton,labour,06-Jul-2021,4606
+F10,wheat,seed,2021-12-11,8015
+F10,wheat,fertilizer,2021-11-27,15894
+F10,wheat,pesticide,2021-11-22,5318
+F10,wheat,labour,2021-11-19,4004
+F10,soybean,seed,03/08/2022,5865
+F10,soybean,fertilizer,02/07/2022,12217
+F10,soybean,pesticide,15/07/2022,4202
+F10,soybean,labour,11/08/2022,4232
+F10,cotton,seed,02-Jul-2022,7563
+F10,cotton,fertilizer,17-Jun-2022,12170
+F10,cotton,pesticide,01-Jul-2022,3605
+F10,cotton,labour,29-Jun-2022,4163
+F10,wheat,seed,2022-11-09,7764
+F10,wheat,fertilizer,2022-11-25,11944
+F10,wheat,pesticide,2022-12-11,4716
+F10,wheat,labour,2022-11-23,4778
+F10,soybean,seed,10/07/2023,6862
+F10,soybean,fertilizer,05/07/2023,11263
+F10,soybean,pesticide,05/07/2023,3879
+F10,soybean,labour,14/07/2023,3277
+F10,cotton,seed,22-Jun-2023,6079
+F10,cotton,fertilizer,03-Jul-2023,11157
+F10,cotton,pesticide,19-Jul-2023,4138
+F10,cotton,labour,30-Jun-2023,3990
+F10,wheat,seed,2023-12-08,7061
+F10,wheat,fertilizer,2023-12-05,12581
+F10,wheat,pesticide,2023-12-11,3774
+F10,wheat,labour,2023-12-25,4207
+F10,soybean,seed,13/07/2024,6539
+F10,soybean,fertilizer,22/07/2024,13495
+F10,soybean,pesticide,15/08/2024,3701
+F10,soybean,labour,07/08/2024,4105
+F10,cotton,seed,10-Aug-2024,5979
+F10,cotton,fertilizer,08-Aug-2024,11075
+F10,cotton,pesticide,09-Aug-2024,3668
+F10,cotton,labour,03-Aug-2024,3481
+F10,wheat,seed,2024-11-14,9499
+F10,wheat,fertilizer,2024-11-21,16904
+F10,wheat,pesticide,2024-11-15,5016
+F10,wheat,labour,2024-11-30,5768
+F11,soybean,seed,29/07/2019,4188
+F11,soybean,fertilizer,17/06/2019,7340
+F11,soybean,pesticide,08/07/2019,2727
+F11,soybean,labour,19/07/2019,2660
+F11,cotton,seed,09-Jul-2019,4349
+F11,cotton,fertilizer,01-Jul-2019,7788
+F11,cotton,pesticide,09-Aug-2019,2534
+F11,cotton,labour,24-Jul-2019,2619
+F11,wheat,seed,2019-12-15,4726
+F11,wheat,fertilizer,2019-12-16,8111
+F11,wheat,pesticide,2019-12-03,2419
+F11,wheat,labour,2019-12-23,2554
+F11,soybean,seed,06/07/2020,3451
+F11,soybean,fertilizer,10/07/2020,5638
+F11,soybean,pesticide,22/07/2020,2027
+F11,soybean,labour,14/07/2020,2096
+F11,cotton,seed,30-Jun-2020,4057
+F11,cotton,fertilizer,10-Aug-2020,6965
+F11,cotton,pesticide,17-Jul-2020,2184
+F11,cotton,labour,08-Aug-2020,2579
+F11,wheat,seed,2020-12-04,5242
+F11,wheat,fertilizer,2020-11-30,8872
+F11,wheat,pesticide,2020-11-16,3341
+F11,wheat,labour,2020-12-02,3352
+F11,soybean,seed,25/06/2021,4640
+F11,soybean,fertilizer,08/07/2021,9056
+F11,soybean,pesticide,09/08/2021,2655
+F11,soybean,labour,29/06/2021,3107
+F11,cotton,seed,05-Jul-2021,4531
+F11,cotton,fertilizer,29-Jul-2021,8332
+F11,cotton,pesticide,07-Aug-2021,3015
+F11,cotton,labour,22-Jul-2021,2823
+F11,wheat,seed,2022-01-01,4455
+F11,wheat,fertilizer,2021-12-08,9441
+F11,wheat,pesticide,2021-12-26,3336
+F11,wheat,labour,2021-11-27,2595
+F11,soybean,seed,17/07/2022,3266
+F11,soybean,fertilizer,01/07/2022,6426
+F11,soybean,pesticide,20/07/2022,2245
+F11,soybean,labour,02/08/2022,1989
+F11,cotton,seed,08-Jul-2022,3986
+F11,cotton,fertilizer,25-Jul-2022,7235
+F11,cotton,pesticide,19-Jul-2022,2645
+F11,cotton,labour,28-Jul-2022,2900
+F11,wheat,seed,2022-12-17,6211
+F11,wheat,fertilizer,2022-12-19,11168
+F11,wheat,pesticide,2022-12-05,4113
+F11,wheat,labour,2022-12-10,3359
+F11,soybean,seed,12/07/2023,3494
+F11,soybean,fertilizer,14/07/2023,7122
+F11,soybean,pesticide,20/06/2023,2363
+F11,soybean,labour,30/06/2023,2379
+F11,cotton,seed,17-Jul-2023,4566
+F11,cotton,fertilizer,10-Jul-2023,9596
+F11,cotton,pesticide,14-Aug-2023,2986
+F11,cotton,labour,23-Jul-2023,2999
+F11,wheat,seed,2023-11-08,6680
+F11,wheat,fertilizer,2023-11-16,11732
+F11,wheat,pesticide,2023-12-08,3298
+F11,wheat,labour,2023-12-16,3817
+F11,soybean,seed,07/08/2024,4039
+F11,soybean,fertilizer,19/07/2024,6362
+F11,soybean,pesticide,12/07/2024,2285
+F11,soybean,labour,16/08/2024,2103
+F11,cotton,seed,27-Jun-2024,6344
+F11,cotton,fertilizer,15-Jul-2024,11881
+F11,cotton,pesticide,06-Jul-2024,3914
+F11,cotton,labour,27-Jun-2024,3861
+F11,wheat,seed,2024-11-13,4723
+F11,wheat,fertilizer,2024-11-21,8988
+F11,wheat,pesticide,2024-11-28,3040
+F11,wheat,labour,2024-12-14,2886
+F 12,soybean,seed,05/07/2019,2293
+F 12,soybean,fertilizer,20/06/2019,3725
+F 12,soybean,pesticide,14/07/2019,1296
+F 12,soybean,labour,29/07/2019,1261
+F 12,cotton,seed,11-Jul-2019,2432
+F 12,cotton,fertilizer,12-Jul-2019,4817
+F 12,cotton,pesticide,29-Jun-2019,1482
+F 12,cotton,labour,22-Jul-2019,1491
+F 12,wheat,seed,2019-11-20,2538
+F 12,wheat,fertilizer,2019-11-10,5057
+F 12,wheat,pesticide,2019-12-07,1969
+F 12,wheat,labour,2019-12-24,1563
+F 12,soybean,seed,03/07/2020,2616
+F 12,soybean,fertilizer,29/07/2020,3936
+F 12,soybean,pesticide,27/06/2020,1682
+F 12,soybean,labour,27/07/2020,1298
+F 12,cotton,seed,23-Jun-2020,1945
+F 12,cotton,fertilizer,03-Jul-2020,3408
+F 12,cotton,pesticide,17-Jul-2020,1284
+F 12,cotton,labour,02-Aug-2020,1089
+F 12,wheat,seed,2020-12-04,2300
+F 12,wheat,fertilizer,2020-11-16,4167
+F 12,wheat,pesticide,2020-12-03,1395
+F 12,wheat,labour,2020-11-18,1765
+F 12,soybean,seed,03/08/2021,2364
+F 12,soybean,fertilizer,23/07/2021,4364
+F 12,soybean,pesticide,08/07/2021,1330
+F 12,soybean,labour,04/07/2021,1445
+F 12,cotton,seed,30-Jun-2021,2598
+F 12,cotton,fertilizer,17-Jul-2021,5382
+F 12,cotton,pesticide,20-Jul-2021,1669
+F 12,cotton,labour,01-Jul-2021,1650
+F 12,wheat,seed,2021-11-25,2623
+F 12,wheat,fertilizer,2021-12-21,4799
+F 12,wheat,pesticide,2021-12-19,1266
+F 12,wheat,labour,2021-11-20,1642
+F 12,soybean,seed,06/07/2022,2037
+F 12,soybean,fertilizer,08/08/2022,3387
+F 12,soybean,pesticide,01/08/2022,1258
+F 12,soybean,labour,29/06/2022,1367
+F 12,cotton,seed,03-Aug-2022,2794
+F 12,cotton,fertilizer,21-Jul-2022,4727
+F 12,cotton,pesticide,25-Jun-2022,1985
+F 12,cotton,labour,25-Jun-2022,1494
+F 12,wheat,seed,2022-12-15,2995
+F 12,wheat,fertilizer,2022-11-26,5762
+F 12,wheat,pesticide,2022-11-25,1876
+F 12,wheat,labour,2022-12-04,1679
+F 12,soybean,seed,09/07/2023,2330
+F 12,soybean,fertilizer,25/07/2023,3712
+F 12,soybean,pesticide,10/08/2023,1256
+F 12,soybean,labour,04/07/2023,1290
+F 12,cotton,seed,16-Jul-2023,2551
+F 12,cotton,fertilizer,28-Jul-2023,4638
+F 12,cotton,pesticide,08-Jul-2023,1804
+F 12,cotton,labour,31-Jul-2023,1834
+F 12,wheat,seed,2023-11-27,2337
+F 12,wheat,fertilizer,2023-11-21,4241
+F 12,wheat,pesticide,2023-11-13,1264
+F 12,wheat,labour,2023-11-22,1509
+F 12,soybean,seed,22/07/2024,1988
+F 12,soybean,fertilizer,17/07/2024,3999
+F 12,soybean,pesticide,09/07/2024,1267
+F 12,soybean,labour,22/07/2024,1113
+F 12,cotton,seed,29-Jun-2024,3017
+F 12,cotton,fertilizer,15-Jun-2024,5458
+F 12,cotton,pesticide,15-Jun-2024,1465
+F 12,cotton,labour,15-Jul-2024,1567
+F 12,wheat,seed,2024-12-26,2596
+F 12,wheat,fertilizer,2024-12-07,4593
+F 12,wheat,pesticide,2024-11-26,1310
+F 12,wheat,labour,2024-12-01,1392

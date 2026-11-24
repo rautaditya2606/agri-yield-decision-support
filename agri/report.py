@@ -31,7 +31,7 @@ def spearman(df, x, y="yield_kg_ha"):
     d = df[[x, y]].dropna()
     if len(d) < MIN_N or d[x].nunique() < 2:
         return None, len(d)
-    return round(d[x].corr(d[y], method="spearman"), 2), len(d)
+    return round(d[x].rank().corr(d[y].rank()), 2), len(d)  # Spearman = Pearson on ranks; avoids scipy
 
 
 def associations(cycles):

@@ -67,3 +67,10 @@ def test_confounding_flagged(built):
     assert "confounded by irrigation" in next(x for x in f if x.startswith("**wheat – input cost"))
     # Generator lowers wheat yield on hot days on every farm; pooling irrigated + rainfed dilutes it.
     assert "stronger within each water group" in next(x for x in f if x.startswith("**wheat – days above"))
+
+
+def test_runs_without_scipy(built, monkeypatch):
+    # Streamlit Cloud installs only requirements.txt; pandas' method="spearman" would need scipy.
+    import sys
+    monkeypatch.setitem(sys.modules, "scipy", None)
+    assert findings(built[0])

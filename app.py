@@ -104,7 +104,7 @@ with tab1:
         "mean_net_return_ha": st.column_config.NumberColumn("Net return (₹/ha)", format="localized")})
 
 with tab2:
-    driver = st.selectbox("Compare yield with", list(report.DRIVERS), format_func=lambda d: report.DRIVERS[d].capitalize())
+    driver = st.selectbox("Compare yield with", list(report.DRIVERS), format_func=lambda d: report.DRIVERS[d][0].upper() + report.DRIVERS[d][1:])
     l, r = st.columns([2, 1], gap="large")
     with l:
         chart(px.scatter(u.assign(water=u.irrigated.map({True: "irrigated", False: "rainfed"})),
